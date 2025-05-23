@@ -3,7 +3,8 @@
 A simple desktop-based Cafe Management System built with Java Swing for the GUI, backed by MySQL database access via JDBC.  
 This application allows you to manage cafe menu items and orders with an easy-to-use graphical interface.
 
-![image](https://github.com/user-attachments/assets/0fc835b7-b973-470e-bf32-a0aabff7428f)
+![image](https://github.com/user-attachments/assets/fd8fbc00-4241-42d1-9b8f-218d85af77f5)
+
 
 # Database - Tables
 ![image](https://github.com/user-attachments/assets/d1aff025-988e-4073-951d-a6514d0be0e9)
