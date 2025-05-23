@@ -40,3 +40,14 @@ This application allows you to manage cafe menu items and orders with an easy-to
    ```bash
    git clone https://github.com/yourusername/cafe-management-system.git
    cd cafe-management-system
+
+## Project Structure
+
+├── DBConnection.java         # Database connection utility
+├── MenuItem.java             # Menu item model class
+├── Order.java                # Order model class
+├── MenuDAO.java              # DAO for menu table
+├── OrdersDAO.java            # DAO for orders table
+├── CafeService.java          # Service layer handling business logic
+└── CafeSwingApp.java         # Java Swing GUI main application
+
