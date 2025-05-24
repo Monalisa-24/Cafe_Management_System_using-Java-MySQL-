@@ -47,7 +47,7 @@ This application allows you to manage cafe menu items and orders with an easy-to
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/yourusername/cafe-management-system.git
+   git clone git clone https://github.com/Monalisa-24/cafe-management-system.git
    cd cafe-management-system
 
 
